@@ -12,6 +12,8 @@
 ![Case Render](/CAD/Renders/caseRender.png)
 ![Front PCB Render](/CAD/Renders/frontPCBRender.png)
 ![Back PCB Render](/CAD/Renders/backPCBRender.png)
+![Schematic Picture](/CAD/Renders/schematic.png)
+![PCB Design Picture](/CAD/Renders/PCBRender.png)
 
 ---
 ## BOM

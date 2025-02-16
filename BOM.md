@@ -1,6 +1,6 @@
 # SplashPad - Bill of Materials
 
-Welcome to the **Bill of Materials (BOM)** – the sacred scroll of **everything** you need to bring your SplashPad to life.  
+Welcome to the **Bill of Materials (BOM)** – the sacred scroll of **everything** needed for my SplashPad. 
 
 *(Because nothing’s worse than realizing you forgot the screws after your parts arrive.)* 
 
@@ -28,3 +28,4 @@ Others:
 ### Notes:
 It would be awesome to have the crown parts printed in black!
 I can print the knob.
+I am buying the M3x8 Bolts.
