@@ -79,9 +79,9 @@ Because a macropad without RGB is just a fancy calculator.
 ---
 
 ## Why?
-I built this macropad for [Hackpad](https://hackpad.hackclub.com/)—an awesome Hack Club YSWS project run by [Alex Ren](https://github.com/qcoral) With a the (hopeful) funding provided by the project, I wanted to create something that’s as practical as it is playful. Whether you're coding, gaming, or just jamming to your favorite tunes, this macropad is my way of saying:
+I built this macropad for [Hackpad](https://hackpad.hackclub.com/)—an awesome Hack Club YSWS project run by [Alex Ren](https://github.com/qcoral). With a the (hopeful) funding provided by the project, I wanted to create something that’s as practical as it is playful. Whether you're coding, gaming, or just jamming to your favorite tunes, this macropad is my way of saying:
 
-### why settle for ordinary when you can hack something extraordinary?
+#### why settle for ordinary when you can hack something extraordinary?
 
 ---
 
