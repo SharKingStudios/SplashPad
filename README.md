@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner" width="600" />
+  <img src="./CAD/Renders/banner.png" alt="Banner" width="600" />
 </p>
 
 # SplashPad – Because You Deserve More Buttons  
