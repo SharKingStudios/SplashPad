@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" width="600" />
+</p>
+
 # SplashPad – Because You Deserve More Buttons  
 
 ### A Tiny, Glowing, Feature-Packed Macropad for Maximum Efficiency™  
