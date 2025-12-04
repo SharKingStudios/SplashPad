@@ -13,11 +13,11 @@ This folder contains the **KMK firmware** for my **SplashPad**.
 ---
 
 ## Default Keymap  
-| Row   | Key 1  | Key 2      | Key 3           |
-|-------|--------|------------|-----------------|
-| **1** | Rewind | Play/Pause | Fast Forward    |
-| **2** | Media  | Calculator | L (Lock)        |
-| **3** | Left   | Right      | Cmd+L (Lock)    |
+| Row   | Key 1  | Key 2       | Key 3           |
+|-------|--------|-------------|-----------------|
+| **1** | Rewind | Play/Pause  | Fast Forward    |
+| **2** | Media  | Eject Media | Enter           |
+| **3** | Left   | Right       | Cmd             |
 
 - **Rotary Encoder:**  
   - **Left** → Volume Down
